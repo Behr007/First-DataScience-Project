@@ -1,6 +1,6 @@
-# ieso-EDA
+# Independent Electricity System Operator - EDA
 
-This project looks at publicly available data (Ontario's electricity market data, as recorded by Independent Electricity System Operator - IESO for short - available for download on ieso.ca website) and aims to build three Machine Learning models.
+The objective of this project is to present an easy-to-understand and readily approachable example of utilizing Machine Learning techniques  to Ontario's electricity market data, as recorded by Independent Electricity System Operator - IESO for short - available for download on ieso.ca website) and aims to build three Machine Learning models.
 
 Price variability, is a feature of North America's electricity markets. Reducing electricity use during peak hours can reduce consumers' electricity bill.
 Utilizing a Machine Learning model, if coupled with an Internet of Things device which could "read" prices frm ieso website and execute the model in real-time, could not only reduce consumers' electricity bills;
